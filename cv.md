@@ -21,3 +21,9 @@ console.log(
   .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0)
 ); // 6
 ```
+
+## **My diskord:** 
+https://discord.com
+
+## **Language level:**
+<p> Started learning </p>
