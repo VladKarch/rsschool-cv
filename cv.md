@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <h1>rsschool-cv</h1>
+ <h2>Karchevskiy Vlad</h2>
+ <h3>Junior front-end developer</h3>
+ <img src="https://user-images.githubusercontent.com/101522897/160483104-dfdcf2d5-6a94-4f8a-b0fc-63fabfa3cb99.png" alt="foto"
+   width="104" height="142">
+ 
+
+ <h4>Contacs:</h4>
+ <ul>
+  <li>Mail: <a href="https://www.google.com/intl/ru/gmail/about/"</a> karchevskiy2595@gmail.com</li>
+  <li>Diskord: VladKarch</li>
+  <li>Tel: +48 500-568-875</li>
+ </ul>
+
+
 # rsschool-cv
 # Karchevskiy vlad
 ### Junior front-end developer
