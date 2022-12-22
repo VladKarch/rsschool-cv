@@ -4,8 +4,10 @@
  <h1>rsschool-cv</h1>
  <p>Karchevskiy Vlad</p>
  <h2>Junior front-end developer</h2>
- <img src="https://user-images.githubusercontent.com/101522897/160483104-dfdcf2d5-6a94-4f8a-b0fc-63fabfa3cb99.png" alt="foto"
-   width="104" height="142">
+ <img src="https://user-images.githubusercontent.com/101522897/160483104-dfdcf2d5-6a94-4f8a-b0fc-63fabfa3cb99.png" 
+      alt="foto"
+      width="104";
+      height="142";>
  
 
  <h3>Contacs:</h3>
